@@ -36,7 +36,7 @@ The development focused on simplicity and performance, utilizing:
 
 If you have any questions about the projects or job opportunities, feel free to reach out:
 
-* **LinkedIn:** [[Your LinkedIn Link Here]](https://www.linkedin.com/in/giovannipersio7/)
+* **LinkedIn:** https://www.linkedin.com/in/giovannipersio7
 * **Email:** giovanni.persio@outlook.com
 
 ---
